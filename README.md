@@ -1,2 +1,2 @@
-# hintegrundcered
-Hintergrung von ceres ändern 
+# hintegrund Ceres
+Hintergrund von ceres ändern 
