@@ -1,7 +1,7 @@
 {
-    "name"                  :"Theme",
-    "description"           :"Basic theme plugin",
-    "namespace"             :"Theme",
+    "name"                  :"ThemHintegrund",
+    "description"           :"BasisTheme",
+    "namespace"             :"ThemHintegrund1",
     "author"                :"Lotu",
     "keywords"              : ["theme", "Ceres", "template"],
     "type"                  :"theme",
